@@ -14,13 +14,13 @@
 - すべてのMSX BASICで動作するはずです（が、操作の都合上、MSX0 Stack+QWERTYパネル以外での操作は絶望的です）
 
 ## ファイルの説明
-- **[bin/KALIMBA.dsk]** ディスクイメージ
+- **[bin/KALIMBA.dsk](https://github.com/matsun-ri/kalimba/raw/main/bin/KALIMBA.dsk)** ディスクイメージ
 - ディスクイメージ内のファイル
   - **KALIMBA.BAS** プログラム本体
   - **AUTOEXEC.BAS** KALIMBA.BASを自動実行するためのプログラム。
 
 ## 実行方法
-1. MSX0のmicroSDカードのDSKフォルダ内に[bin/KALIMBA.dsk]を置きます。
+1. MSX0のmicroSDカードのDSKフォルダ内に[bin/KALIMBA.dsk](https://github.com/matsun-ri/kalimba/raw/main/bin/KALIMBA.dsk)を置きます。
 2. MSX0のSetup Utilityにて、上記ディスクイメージを選択します。
 3. MSX0をリセットします。
 4. CAPSがOFFの状態で、画面に表示されているキーを押すと音色が流れます。最大3和音まで鳴ります。
